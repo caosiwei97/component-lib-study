@@ -1,5 +1,5 @@
 {
-  "name": "sp-form",
+  "name": "spp-form",
   "version": "0.0.1",
   "description": "monorepo test from custom form",
   "main": "index.js",
@@ -7,5 +7,6 @@
     "test": "test"
   },
   "author": "caosiwei",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "19f10f17a832085134a7917e3697eeadad1a4816"
 }
