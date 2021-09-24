@@ -1,0 +1,14 @@
+{
+  "name": "sp-form-item",
+  "version": "0.0.1",
+  "description": "monorepo test from custom form-item",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "caosiwei",
+  "license": "MIT",
+  "dependencies": {
+    "async-validator": "^4.0.3"
+  }
+}

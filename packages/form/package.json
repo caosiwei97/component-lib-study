@@ -1,0 +1,11 @@
+{
+  "name": "sp-form",
+  "version": "0.0.1",
+  "description": "monorepo test from custom form",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "caosiwei",
+  "license": "MIT"
+}

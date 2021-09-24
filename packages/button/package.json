@@ -1,0 +1,11 @@
+{
+  "name": "sp-button",
+  "version": "0.0.1",
+  "description": "monorepo test from custom button",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "caosiwei",
+  "license": "MIT"
+}
