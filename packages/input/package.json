@@ -1,6 +1,6 @@
 {
   "name": "sp-input",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "monorepo test from custom input",
   "main": "index.js",
   "scripts": {

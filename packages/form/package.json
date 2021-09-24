@@ -1,6 +1,6 @@
 {
   "name": "spp-form",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "monorepo test from custom form",
   "main": "index.js",
   "scripts": {

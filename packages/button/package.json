@@ -1,6 +1,6 @@
 {
   "name": "sp-button",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "monorepo test from custom button",
   "main": "index.js",
   "scripts": {
