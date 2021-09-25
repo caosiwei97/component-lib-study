@@ -1,5 +1,5 @@
 <template>
-  <div class="lg-input">
+  <div class="sp-input">
     <input :type="type" v-bind="$attrs" @input="handleInput" />
   </div>
 </template>
@@ -18,13 +18,6 @@
         default: '',
       },
     },
-
-    data() {
-      return {
-        errorMessage: '',
-      }
-    },
-
     methods: {
       handleInput(e) {
         // 触发 input 事件，进行双向绑定
