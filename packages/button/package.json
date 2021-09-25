@@ -2,9 +2,11 @@
   "name": "sp-button",
   "version": "0.0.2",
   "description": "monorepo test from custom button",
-  "main": "index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
   "scripts": {
-    "test": "test"
+    "build": "rollup -c",
+    "del": "rimraf dist"
   },
   "author": "caosiwei",
   "license": "MIT",

@@ -1,7 +1,7 @@
-import LgButton from './src/LgButton.vue'
+import SpButton from './src/SpButton.vue'
 
 LgButton.install = Vue => {
-  Vue.component(LgButton.name, LgButton)
+  Vue.component(SpButton.name, SpButton)
 }
 
-export default LgButton
+export default SpButton

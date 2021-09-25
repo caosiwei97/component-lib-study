@@ -1,5 +1,5 @@
 <template>
-  <div class="lg-form-item">
+  <div class="sp-form-item">
     <label>{{ label }}</label>
     <div>
       <slot></slot>

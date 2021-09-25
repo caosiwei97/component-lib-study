@@ -1,12 +1,12 @@
 <template>
-  <form class="sp-form">
+  <form class="spp-form">
     <slot></slot>
   </form>
 </template>
 
 <script>
   export default {
-    name: 'LgForm',
+    name: 'SppForm',
 
     props: {
       model: Object,
@@ -32,5 +32,3 @@
     },
   }
 </script>
-
-<style lang="scss" scoped></style>
