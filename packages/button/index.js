@@ -1,6 +1,6 @@
 import SpButton from './src/SpButton.vue'
 
-LgButton.install = Vue => {
+SpButton.install = Vue => {
   Vue.component(SpButton.name, SpButton)
 }
 

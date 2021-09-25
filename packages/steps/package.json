@@ -1,0 +1,14 @@
+{
+  "name": "sp-steps",
+  "version": "0.0.0",
+  "description": "sp-steps component",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "keywords": []
+}
